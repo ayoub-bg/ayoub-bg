@@ -5,4 +5,4 @@ I enjoy programming in general, as it is the best way, at least for me, to make 
 
 > I am a curious person, and I enjoy learning new things every time, even though I might be slow to jump from topic to topic.
 > In general, I am eager to learn skills that can help me become a better developer.
-> Also i have ADHD traits but i am not formally diagnosed.
+> Also i have ADHD if that has any relevance.
